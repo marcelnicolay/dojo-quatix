@@ -2,12 +2,6 @@ Dojo Quatix
 ==================
 
 
-dojo-1
--------------------
-
-Sudoku
-
-dojo-2
--------------------
-
-Batalha naval
+    * Dojo1 - Sudoku
+    * Dojo2 - Cheque por extenso
+    * Dojo3 - Sudoku
