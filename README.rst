@@ -4,4 +4,4 @@ Dojo Quatix
 
     * Dojo1 - Sudoku
     * Dojo2 - Cheque por extenso
-    * Dojo3 - Sudoku
+    * Dojo3 - Batalha Naval
