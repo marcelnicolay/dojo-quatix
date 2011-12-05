@@ -11,7 +11,7 @@ def main():
     print_jogo(jogo)
     
     while not jogo.is_terminado():
-        #key = raw_input()
+        key = raw_input()
         
         print("Jogada "+str(len(jogo.jogadores[0].jogadas)+1))
         
