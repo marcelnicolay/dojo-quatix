@@ -1,0 +1,8 @@
+<html>
+    <body>
+        {% for post in posts %}
+            <h1>{{ post.title }}</h1>
+            <span>created at {{ post.created|date:"d/m/Y" }}</span>
+        {% endfor %}
+    </body>
+</html>
